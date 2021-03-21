@@ -1,0 +1,21 @@
+.background{
+    background-image: url(/images/yesback.jpg);
+    background-size: cover;
+    color: whitesmoke;
+    height: 100vh;
+    padding-top: 120px;
+    background-size: cover;
+}
+
+.first-header{
+    margin-left: 900px;
+    margin-right: 50px;
+    border: solid;
+    background-color: red;
+}
+.copywrite{
+    margin-bottom: 0px;
+    color: red;
+    height: 5vh;
+    z-index: 1000;
+}
