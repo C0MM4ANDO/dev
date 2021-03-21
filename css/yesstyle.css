@@ -6,16 +6,68 @@
     padding-top: 120px;
     background-size: cover;
 }
+.main-head{
+    font-family: 'Flamenco', cursive;
+    float: right;
+    margin-right: 120px;
+    margin-top: -90px;
+    word-spacing: 30px;
+    font-size: 20px;
+}
+.main-head li{
+    display: inline-flex;
+    list-style: none;
+}
+.main-head li a{
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 90%;
+    font-weight: 100
+}
+
+.main-head li a:hover{
+    border-bottom: 2px solid violet;
+}
 
 .first-header{
-    margin-left: 900px;
+    margin-left: 1000px;
     margin-right: 50px;
-    border: solid;
-    background-color: red;
+    border: solid rgb(255, 255, 255);
+    background-color: rgb(253, 253, 253);
+    color: black;
 }
-.copywrite{
-    margin-bottom: 0px;
-    color: red;
-    height: 5vh;
-    z-index: 1000;
+.form{
+    margin-left: 10px;
+    margin-right: 50px;
+    line-height: 25px;
+    
+}
+.btn{
+        display: inline-block;
+    padding: 10px 30px;
+    font-weight: lighter;
+    text-decoration: none;
+    border-radius: 200px;
+    transition: background-color 0.2s, border 0.2s, color 0.2;
+    size: fixed;
+}
+.btn-submit{
+background-color: rgb(63, 63, 209);
+color: white;
+margin-right: 15px;
+margin-left: 15px;
+border: 1px solid rgb(63, 63, 209);
+}
+.btn-submit:hover{
+    background-color: rgb(33, 33, 150);
+}
+.btn-createaccount{
+    background-color: rgb(15, 241, 15);
+color: white;
+margin-right: 15px;
+margin-left: 15px;
+border: 1px solid rgb(15, 241, 15);
+}
+.btn-createaccount:hover{
+    background-color: rgb(33, 150, 33);
 }
