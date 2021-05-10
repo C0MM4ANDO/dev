@@ -1,0 +1,253 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+                                                                                /* css for body */
+
+.back{
+background-color: white;
+color: white;
+background-image: url(../images/5fF03k.jpg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+background-position:center;
+}
+
+.navigationbar li{
+    display: inline;
+    padding: 10px;
+   
+}
+                                                                               /* css for navigation bars */
+.navigationbar{
+text-align: right;
+ font-size: 13px;
+ text-decoration: none;
+ font-family: Open Sans, sans-serif;
+ padding-top: 50px;
+ padding-right: 30px;
+}
+                                                                                 /* css for navigation bars link  */
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:visited {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    color: darkgray;
+    background-color: transparent;
+  }
+  
+  a:active {
+    color: red;
+    background-color: transparent;
+  }
+
+                                                                             /* css for main text heading  */
+.headtext{
+    margin-top: 200px;
+   text-align: center;
+    font-size: 20px;
+    font-family: Open Sans, sans-serif;
+}
+
+.midtext{
+  margin-top: 10px;
+  text-align: center;
+  font-size: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.endtext{
+  margin-top: 10px;
+  text-align: center;
+  font-size: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.viewbutton{
+    background-color: transparent;
+    color: white;
+    margin-top: 100px;
+    margin-left: 45%;
+    height: 50px;
+    width: 200px;
+    border-radius: 10px;
+    margin-bottom: 250px;
+}
+
+                                                                /* secound layout*/
+
+
+.seclayout{
+  background-color: skyblue;
+  font-family: Arial;
+  padding-bottom: 200px;
+}
+
+.hone{
+padding-top: 100px;
+text-align: center;
+font-size: 40px;
+}
+
+.htwo{
+  text-align: center;
+  font-size: 40px;
+}
+
+.hthree{
+  padding-top: 30px;
+  text-align: center;
+  font-size: 18px;
+}
+
+.hfour{
+  padding-top: 5sspx;
+  text-align: center;
+  font-size: 18px;
+}
+
+                                                                  /* third layout */
+.thirdlayout{
+padding-top: 50px;
+background-color: white;
+padding-bottom: 60px;
+}
+
+.hhone{
+  color: black;
+  padding-top: 80px;
+  text-align: center;
+  font-size: 35px;
+  font-family: Arial;
+}
+
+.hhtwo{
+  color: black;
+  padding-top: 25px;
+  text-align: center;
+  font-size: 20px;
+  font-family: Arial;
+}
+
+                                                                                            /* forth layout */
+.forthlayout{
+  background-image: url(../images/team.jpg);
+  font-family: arial;
+  padding-top: 300px;
+  padding-bottom: 300px;
+  background-attachment: fixed;
+  background-size: cover;
+  color: white;
+  background-position:center;
+}
+
+.hhhone{
+  font-size: 60px;
+  text-align: center;
+}
+.hhhtwo{
+  padding-top: 50px;
+  text-align: center;
+}
+
+.hhhthree{
+  padding-top: 10px;
+  text-align: center;
+}
+.meettheteam{
+  background-color: white;
+  color: black;
+  margin-top: 50px;
+  margin-left: 45%;
+  height: 50px;
+  width: 200px;
+}
+
+                                                                                                /*fifth layout */
+
+                                                                                              
+.fifthlayout{
+  padding-top: 40px;
+  padding-bottom: 80px;
+  color: black;
+  font-family: Open Sans, sans-serif;
+  font-weight: lighter;
+  text-align: center;
+}
+
+.hhhhone{
+  font-size: 30px;
+  color: lightskyblue;
+  font-family: Amiko, sans-serif;
+  font-weight: 400;
+  line-height: 1.4;
+  fill: #454545;
+  letter-spacing: 0em;
+}
+
+.hhhhtwo{
+  padding-top: 20px;
+  color: #454545;
+  font-family: Amiko, sans-serif;
+  font-weight: 400;
+  line-height: 1.4;
+  fill: #454545;
+  letter-spacing: 0em;
+}
+
+.getintouch{
+  background-color: lightgray;
+  color: black;
+  margin-top: 5px;
+  height: 50px;
+  width: 200px;
+}
+
+.hhhhthree{
+  color: #454545;
+    font-family: Amiko, sans-serif;
+    font-weight: 400;
+    line-height: 1.4;
+    fill: #454545;
+    letter-spacing: 0em;
+}
+
+.hhhhfour{
+  padding-top: 50px;
+  color: #454545;
+  font-family: Amiko, sans-serif;
+  font-weight: 400;
+  line-height: 1.4;
+  fill: #454545;
+  letter-spacing: 0em;
+}
+
+.hhhhfive{
+margin-top: 20px;
+width: 200px;
+height: 30px;
+}
+
+.Subscribe{
+  background-color: lightgray;
+  color: black;
+  margin-top: 5px;
+  height: 50px;
+  width: 200px;
+}
+
+.copyright{
+  color: black;
+}
+input.hhhhfive{
+  max-width: 640px 360px;
+  width: 50%;
+}
